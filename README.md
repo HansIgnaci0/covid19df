@@ -3,6 +3,10 @@
 Este proyecto realiza un análisis exploratorio y limpieza de datos COVID-19 usando **Kedro**.  
 Incluye varios datasets, limpieza de valores nulos y duplicados, y generación de gráficos.
 
+De igual forma se adjuntara un informe completo de lo que se realizo en este trabajo (informe machine learning Hanss Mancilla.pdf)
+
+
+
 ---
 
 ## Contenido del proyecto
